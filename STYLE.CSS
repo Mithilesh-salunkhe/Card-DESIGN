@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width:20%;
+    background-color: rgb(171, 236, 233);
+    border-radius: 10px;
+    margin:100px;
+    box-shadow:10px 10px 15px rgb(50, 49, 49);
+}
+.image_container img{
+    /* width:100%; */
+    border-radius: 10px;
+    padding: 5px 5px 0 5px;
+   
+}
+.des{
+    margin-top: 20px;
+    text-align: center;
+}
+.title button{
+    margin-bottom: 20px;
+    border: 2px solid rgb(123, 239, 246);
+    padding:10px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px black;
+    justify-content:end; 
+}
+.title{
+    margin-top: 20px;
+    text-align: center;
+}
+.des button{
+    border: 2px solid rgb(123, 239, 246);
+    padding:10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px black;
+}
